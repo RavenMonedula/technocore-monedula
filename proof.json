@@ -1,0 +1,10 @@
+{
+    "schema": "technocore-contribution-proof-v2",
+    "artifact_url": "https://github.com/RavenMonedula/technocore-monedula",
+    "commit": "140af66dd881d1ae9783cd367d3ad047af1858b4",
+    "did": "did:key:z6Mkvxjhta6AJ6etwo9yB1ktvSDRq7Z8CrpTUkkfiVK9y3z3",
+    "issued_at": 1795569464,
+    "expires_at": 1803345464,
+    "nonce": "c46cb2f657268be2b435e54c0bceb04a",
+    "signature": "ctKMte6YDNdsFBrDQQt3RNt0S7Z9RGDHhwA4a-I9f9vhIGIm_FIzB49XLZLNGEcuVNXoDIYyKbtAD6TdTn0yBA"
+}
